@@ -1191,3 +1191,5 @@ ListIterator <-- List
 - [Java 集合细节（二）：asList 的缺陷](http://wiki.jikexueyuan.com/project/java-enhancement/java-thirtysix.html)
 - [Java Collection Framework – The LinkedList Class](http://javaconceptoftheday.com/java-collection-framework-linkedlist-class/)
 
+Eckel B. Java 编程思想 [M]. 机械工业出版社, 2002.
+
